@@ -4,11 +4,11 @@
 
 ♣ In my career I worked as a manual and automation tester across various domains such as Telecom, Insurance, and E-commerce  mostly for web based applications where I performed front end and back end testing by developing test scenarios, test cases, test data, test strategy, test plans, test reports (based on acceptance criteria, and Wireframe), and also created automation test scripts  using Selenium WebDriver API  with Java.  
  
-♣I have a very good knowledge on  4 fundamentals like Abstraction,Inheritence,Encapsulation and Polimorphism  of Object Oriented   Programming (OOP) Language  JAVA.   
+♣I have a very good knowledge on  4 fundamentals like Abstraction,Inheritence,Encapsulation and Polimorphism  of Object Oriented Programming (OOP) Language  JAVA.   
 
-♣I performed different types of testing like Smoke Testing, Sanity Testing, Regression Testing, Integration Testing, and Database  Testing etc.  
+♣I performed different types of testing like Smoke Testing, Sanity Testing, Regression Testing, Integration Testing, and Database Testing etc.  
 
-♣ Doing that I mostly worked in Agile methodology in both Scrum and Kanban projects.In my current company, we are following Agile  methodology.In Agile process We do various activities like sprint planing ,daily standup meeting , Backlog refinement,Demo  meeting   and Retrospective meeting .
+♣ Doing that I mostly worked in Agile methodology in both Scrum and Kanban projects.In my current company, we are following Agile methodology.In Agile process We do various activities like sprint planing ,daily standup meeting , Backlog refinement,Demo  meeting   and Retrospective meeting .
 
 
 ♣ As a tester my main responsibility is to find the bug and raise it into the bug reporting tools, like JIRA/Rally and to provide end-to-end solutions to software quality problems to ensure that software runs smoothly as expected and meets client needs.
@@ -19,7 +19,7 @@
 
 ♣Furthermore, I mostly used selenium WebDriver API for functional UI testing for web based applications. To enhance my selenium  scripts, I used Object Oriented Programming Language Java.
 
-♣In my career, I had a chance to work with different testing frameworks like Data Driven, Keyword Driven, Hybrid, BDD Cucumber etc.    where I mostly used Maven as a project building tool and I used junit, and testNG as a testing framework.In POMXML I added all the   dependencies I need. Even though I am pretty  much comfortable with building framework from the scratch , but I am good at working    with e xisting framework as well and my  strongest debugging skills help me to do this.
+♣In my career, I had a chance to work with different testing frameworks like Data Driven, Keyword Driven, Hybrid, BDD Cucumber etc. where I mostly used Maven as a project building tool and I used junit, and testNG as a testing framework.In POMXML I added all the   dependencies I need. Even though I am pretty  much comfortable with building framework from the scratch , but I am good at working    with e xisting framework as well and my  strongest debugging skills help me to do this.
 
 ♣To share our project within team members I got chance to work with different version control tools like Git and Bitbucket.
 
